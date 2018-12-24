@@ -1,0 +1,25 @@
+https://gallery.technet.microsoft.com/File-Folder-and-Share-f788312b#content
+
+File, Folder and Share Permission Utility Tool
+IT Admins working and managing a data center environment, and others as well, will find this tool very handy. Administering, managing and maintaining shared folders and share permission can be daunting in an IT Admin's day-to-day list of activities. Hence, this tool. Using this
+
+
+IT Admins working and managing a data center environment, and others as well, will find this tool very handy. Administering, managing and maintaining shared folders and share permission can be daunting in an IT Admin's day-to-day list of activities. Hence, this tool. Using this tool will help the IT guys to check and fetch reports about the tasks as mentioned in the application. Please check the help file -- HelpFile.pdf -- before executing this tool.
+Your comments and feedback are welcome. Please rate this tool. Enjoy !!
+Warranty Information
+I do not provide warranty of any kind, either implicitly or explicitly, directly or indirectly, for this tool. The tool is provided AS IS without warranty of any kind. I further disclaim all implied warranties including, without limitation, any implied warranties of merchantability or of fitness for a particular purpose. The entire risk arising out of the use or performance of the tool and documentation remains with you. In no event shall I be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or other pecuniary loss) arising out of the use of or inability to use the tool.
+
+
+Verified on the following platforms
+Windows 10	Yes
+Windows Server 2012	Yes
+Windows Server 2012 R2	No
+Windows Server 2008 R2	Yes
+Windows Server 2008	Yes
+Windows Server 2003	Yes
+Windows Server 2016	No
+Windows 8	Yes
+Windows 7	Yes
+Windows Vista	Yes
+Windows XP	Yes
+Windows 2000	No
